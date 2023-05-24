@@ -8,8 +8,10 @@ pip uninstall tensorcircuit
 pip install tensorcircuit-nightly
 ```
 
-# Content list
-## [codes](/codes)
+# Folders
+- [codes](https://github.com/ls-iastu/RAtraining/tree/main/codes): contains python codes for different training strategies and ansatzs.
+
+- [ansatz](https://github.com/ls-iastu/RAtraining/tree/main/codes): contains the diagrams of Hamiltonian variational ansatz and Hardware-efficient ansatz.
 
 
 # Please cite us as
