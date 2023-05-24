@@ -1,0 +1,3 @@
+tensorcircuit
+jax
+optax
