@@ -2,7 +2,7 @@
 This repository includes the codes for the manuscript: *Training variational quantum algorithms with random gate activation*.
 
 # Installation and usage
-This project uses [Tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit) . Check it out if you don't have it locally installed. For the nightly build of tensorcircuit with new features, try:
+This project uses [Tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit). For the nightly build of tensorcircuit with new features, try:
 ```python
 pip uninstall tensorcircuit
 pip install tensorcircuit-nightly
@@ -11,7 +11,7 @@ pip install tensorcircuit-nightly
 # Folders
 - [codes](https://github.com/ls-iastu/RAtraining/tree/main/codes): contains python codes for different training strategies and ansatzs.
 
-- [ansatz](https://github.com/ls-iastu/RAtraining/tree/main/codes): contains the diagrams of Hamiltonian variational ansatz and Hardware-efficient ansatz.
+- [ansatz](https://github.com/ls-iastu/RAtraining/tree/main/codes): contains diagrams of Hamiltonian variational ansatz (HVA) and Hardware-efficient ansatz (HEA).
 
 
 # Please cite us as

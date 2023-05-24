@@ -180,7 +180,7 @@ if __name__ == "__main__":
     e_list, var_list = main(n, nlayers, Jz, decay_steps, maxiter)
 
     np.savez(
-        "HVA.npz",
+        "data.npz",
         e=e_list,
         var=var_list,
     )
