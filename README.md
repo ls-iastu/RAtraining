@@ -11,7 +11,7 @@ pip install tensorcircuit-nightly
 # Folders
 - [codes](https://github.com/ls-iastu/RAtraining/tree/main/codes): contains python codes for different training strategies and ansatzs.
 
-- [ansatz](https://github.com/ls-iastu/RAtraining/tree/main/codes): contains diagrams of Hamiltonian variational ansatz (HVA) and Hardware-efficient ansatz (HEA).
+- [ansatz](https://github.com/ls-iastu/RAtraining/tree/main/ansatz): contains diagrams of Hamiltonian variational ansatz (HVA) and Hardware-efficient ansatz (HEA).
 
 
 # Please cite us as
